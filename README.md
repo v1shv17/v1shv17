@@ -37,7 +37,6 @@
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?style=flat&logo=r&logoColor=white)
-
 ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
 
 ---
