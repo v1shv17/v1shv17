@@ -4,7 +4,7 @@
 ## 🚀 About Me
 - 🎓 I’m currently enrolled in the **Bachelor of Science in Computer Science** program at **Toronto Metropolitan University (TMU)**, **second-year Co-op student**.
 - 🌱 I’m currently learning **Fullstack Web Dev** by working on creating a **Decentralized Finanace app**,i am also exploring **Cloud Platform (Micrsosoft Azure)** to diversify my tech stack and explore scalable architectures.
-- 👨‍💻 I’m passionate about **AI ans LLM's**, especially **AI Agents** right know.
+- 👨‍💻 I’m passionate about **AI and LLM's**, especially **AI Agents** right know.
 - 🧑‍🤝‍🧑 I’m looking for someone to collaborate on **Fullstack project, Parkbnb**
 - 💼 I’m actively seeking a **Summer 2025 Data Analyst Intern/co-op** opportunity to apply my skills and focus on professional growth, self-development, and building confidence in a real-world work environment.
 - 📫 Reach me at vishvraval.offi@gmail.com or vishv.raval@torontomu.ca.
