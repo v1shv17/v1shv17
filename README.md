@@ -48,8 +48,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v1shv17&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v1shv17&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+<a href="https://github.com/v1shv17">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1shv17&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1shv17&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+</a>
 
 ---
 
