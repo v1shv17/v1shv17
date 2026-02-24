@@ -75,6 +75,8 @@ E-commerce app on AWS EKS with an AI chatbot using retrieval-augmented generatio
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
+[View Repo →](https://github.com/v1shv17/CloudMart)
+
 </td>
 <td width="50%" valign="top">
 
@@ -86,6 +88,8 @@ Automated options pricing for 1000+ daily contracts with real-time market data, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+[View Repo →](https://github.com/v1shv17/Black-Scholes_option-analytics)
 
 </td>
 </tr>
@@ -134,8 +138,13 @@ Automated options pricing for 1000+ daily contracts with real-time market data, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=v1shv17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1shv17&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=v1shv17&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=v1shv17&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=v1shv17&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
